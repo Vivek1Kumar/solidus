@@ -1,0 +1,29 @@
+.taxonomy__list {
+    list-style: none;
+    margin: 0 0 3rem;
+    padding: 13px 0px 0 19px;
+    text-align: left;
+}
+.taxonomy__list li {
+    margin: .5rem 0;
+}
+.breadcrumbs__content ol {
+    display: flex;
+    font-size: 1.4rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.products-grid {
+    display: grid;
+    grid-column-gap: 2rem;
+    grid-row-gap: 5rem;
+    grid-template-columns: 1fr;
+    list-style-type: none;
+    margin: 0 auto;
+    max-width: 114rem;
+    padding: 3rem;
+}
+.product-card {
+    
+}
